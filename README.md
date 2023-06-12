@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<img src="https://drive.google.com/file/d/1-tWIrc-Ls9dMnkN4ejjyP-GyU0ew6wwK/view?usp=drive_link" width="300" />
+
 
 <h1 align="center"> Hola! 👋, Soy, Daniel Urbano</h1>
 
