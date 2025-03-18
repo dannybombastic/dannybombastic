@@ -35,7 +35,7 @@
 
 - 🏋️‍♂️ actualmente estoy aprendiendo **React, Ciber seguridad, Angular, Sql**
 
-- 🌍 Website [durbano.com](durbano.com)
+- 🌍 Website [durbanod.net](durbanod.net)
 
 
 
