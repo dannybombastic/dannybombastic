@@ -10,7 +10,7 @@
 
 <div id="badges" align="center">
 <a href="https://twitter.com/dannybombastic" target="_blank">
-<img src="https://img.shields.io/twitter/follow/ruxxdeveloper?color=blue&label=ruxxdeveloper&logo=twitter&style=for-the-badge"
+<img src="https://img.shields.io/twitter/follow/ruxxdeveloper?color=blue&label=ruadeveloper&logo=twitter&style=for-the-badge"
     alt="Twitter badge"
 </a>
 
